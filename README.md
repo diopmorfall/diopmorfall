@@ -1,9 +1,15 @@
-Hi, I’m @diopmorfall 👋 😁
-- Senegal native based in Italy 🇸🇳
-- **Interests**: web dev, self-improvement, nature, reading and sports �⚽️
-- *Learning the basics about web development on **start2impact.com*** 👨🏿‍💻
+# Here's Mor Fall 👋🏿
+
+- Senegal native based in Italy
+- *Web development, self-improvement, nature, reading and sports lover �⚽️
+- *Learning web development and how to make an impact on **start2impact.com*** 👨🏿‍💻🚀
 - ***Junior FrontEnd Developer** at Alten Italy* 
-- **Reach me**: morfall.papydiop99@gmail.com 📫
+- 
+
+## Get in touch
+- LinkedIn
+- Medium
+- 
 
 <!---
 diopmorfall/diopmorfall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
