@@ -12,7 +12,7 @@
   
   
   
-<h3 align="center">Get in touch</h3>
+<h2 align="center">Get in touch</h2>
 
 [![<LinkedIn>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mor-fall-diop-07b40a18b)
 [![<Website>](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://diopmorfall.github.io/portfolio/)
